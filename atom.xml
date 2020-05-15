@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xinjie712.github.io/</id>
     <title>欣杰的个人博客</title>
-    <updated>2020-05-15T10:46:49.820Z</updated>
+    <updated>2020-05-15T12:02:14.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xinjie712.github.io/"/>
     <link rel="self" href="https://xinjie712.github.io/atom.xml"/>
@@ -11,7 +11,18 @@
     <icon>https://xinjie712.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 欣杰的个人博客</rights>
     <entry>
-        <title type="html"><![CDATA[关于评论和博客]]></title>
+        <title type="html"><![CDATA[关于本博客的搭建]]></title>
+        <id>https://xinjie712.github.io/post/guan-yu-ben-bo-ke-de-da-jian/</id>
+        <link href="https://xinjie712.github.io/post/guan-yu-ben-bo-ke-de-da-jian/">
+        </link>
+        <updated>2020-05-15T11:00:23.000Z</updated>
+        <content type="html"><![CDATA[<p>这个个人博客的搭建比较仓促，因为最近学业繁重，没有时间去研究太多原理，所以使用了一款非常简单容易上手的软件Gridea搭建。</p>
+<p>教学视频可看：https://www.bilibili.com/video/BV1cE41197Pn 。</p>
+<p>本博客是挂在github，所以后期可能会移到国内的服务器上（运行速度比较快而且评论区也好处理），可能暑假弄吧🤣。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于评论]]></title>
         <id>https://xinjie712.github.io/post/guan-yu-ping-lun/</id>
         <link href="https://xinjie712.github.io/post/guan-yu-ping-lun/">
         </link>

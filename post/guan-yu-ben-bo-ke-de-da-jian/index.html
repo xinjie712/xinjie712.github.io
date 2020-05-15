@@ -1,9 +1,8 @@
-<!doctype html>
 <html>
   <head>
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>我的阅读 | 欣杰的个人博客</title>
+<title>关于本博客的搭建 | 欣杰的个人博客</title>
 <meta name="description" content="很高兴你来看我鸭" />
 <link rel="shortcut icon" href="https://xinjie712.github.io//favicon.ico">
 <link rel="stylesheet" href="https://xinjie712.github.io//styles/main.css">
@@ -16,13 +15,14 @@
 <script src="https://xinjie712.github.io//media/js/jquery.magnific-popup.min.js"></script>
 <script src="https://xinjie712.github.io//media/js/functions.js"></script>
     <meta name="referrer" content="never">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/iMuFeng/bmdb@1.8.0/dist/Bmdb.min.css">
-    <script type='text/javascript' src='https://cdn.jsdelivr.net/gh/iMuFeng/bmdb@1.8.0/dist/Bmdb.min.js'></script>
+    <meta name="description" content="这个个人博客的搭建比较仓促，因为最近学业繁重，没有时间去研究太多原理，所以使用了一款非常简单容易上手的软件Gridea搭建。
+教学视频可看：https://www.bilibili.com/video/BV1cE41197Pn 。
+本博客是..." />
+    <meta name="keywords" content="" />
+    <script src="https://xinjie712.github.io//media/js/waterfall.min.js"></script>
+    <script src="https://xinjie712.github.io//media/js/prism.min.js"></script>
   </head>
   <body>
-    <!-- start: #wrapper -->
-    <div class="wrapper">
-      
             <header id="header" class="grid-container">
         <!-- start: .menu-wrapper -->
         <div class="menu-mobile"> 
@@ -77,14 +77,98 @@
         </div>
       </div>
 
-      <main id="friends" class="main fullcover no-sidebar content">
-        <div class="grid-container module-wrapper enable-masonry aos-init aos-animate" data-aos="fade-up">
+      <main id="single" class="main grid-container fullcover no-sidebar aos-init aos-animate" data-aos="fade">
+
+        <div class="center content">
+          <div class="featured-image cover" style="background-image: url('https://xinjie712.github.io//post-images/guan-yu-ben-bo-ke-de-da-jian.jpg');">
+            <div class="meta top"> 
+              <time class="meta-info" style="float:left;" datetime="2020-05-15"><i class="fa fa-calendar"></i><span class="lately">1 小时前</span></time>
+              
+              <a href="https://xinjie712.github.io/post/guan-yu-ben-bo-ke-de-da-jian/#comments" class="comments meta-info" title="">
+                <i class="fa fa-comment remixicon"></i><span class="comment-count valine-comment-count" data-xid="/guan-yu-ben-bo-ke-de-da-jian/"> </span>
+              </a>
+              <span id="/guan-yu-ben-bo-ke-de-da-jian/" class="leancloud_visitors views-counter meta-info" title=""><i class="fa fa-leancloud remixicon"></i><span class="leancloud-visitors-count"></span></span>
+              
+            </div>
+            <div class="info">
+              <div class="tags ">
+                
+              </div>
+              <h1 class="title ularge white bold">关于本博客的搭建</h1>
+            </div>
+          </div>
+        </div>  
+
         <div class="epcl-page-wrapper">
-          <div class="section-content" style="margin-top:3em;"></div>
-        </div>
-        </div>
+          <div class="left-content grid-70 np-mobile">
+            <article class="main-article post">
+              <section class="post-content">
+                <div class="text">
+                  <p>这个个人博客的搭建比较仓促，因为最近学业繁重，没有时间去研究太多原理，所以使用了一款非常简单容易上手的软件Gridea搭建。</p>
+<p>教学视频可看：https://www.bilibili.com/video/BV1cE41197Pn 。</p>
+<p>本博客是挂在github，所以后期可能会移到国内的服务器上（运行速度比较快而且评论区也好处理），可能暑假弄吧🤣。</p>
+
+                </div>
+                <div class="clear"></div>
+              </section>
+            </article>
+            <div class="clear"></div>
+
+            <section class="related section">
+              
+              
+              <article class="next grid-50 tablet-grid-50 grid-parent">
+                <div class="thumb cover lazy loaded" style="background-image: url('https://xinjie712.github.io//post-images/guan-yu-ping-lun.jpg');"></div>
+                 <a href="https://xinjie712.github.io/post/guan-yu-ping-lun/" class="full-link"></a>
+                 <div class="info">
+                  <time datetime="2020-05-15">2020-05-15</time>
+                  <h4 class="title white no-margin">关于评论</h4>
+                </div>
+                 <span class="epcl-button red">
+                  <img src="https://xinjie712.github.io//media/images/right-arrow.svg" width="15" alt="Left Arrow">
+                </span>
+                <div class="overlay"></div>
+              </article>
+              
+
+                <div class="clear"></div>
+            </section>
+
+              <div class="clear"></div>
+              
+            
+              <div id="comments" class="bg-white hosted ">
+                
+                  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+<div class="clear"></div>
+
+<script>
+  var gitalk = new Gitalk({
+    clientID: 'f38ec4496f225ad3ed88',
+    clientSecret: 'ecb9dad0fd95904816b9a293fbf9e3b0db490bf8',
+    repo: 'xinjie712.github.io',
+    owner: 'xinjie712',
+    admin: ['xinjie712'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+</script>
+
+                
+                
+              </div>
+            
+
+            </div>
+          </div>
       </main>
-        <footer id="footer" class="grid-container">
+
+          <footer id="footer" class="grid-container">
         <div class="widgets row gradient-effect">
             <div class="default-sidebar border-effect">
               <div class="grid-33 tablet-grid-50 mobile-grid-100">
@@ -199,15 +283,9 @@
 
         
 
-    <script>
-    new Bmdb({
-      type: 'books',
-      selector: '.section-content',
-      secret: '',
-      noMoreText: '没有更多数据了',
-      limit: 30
-    })
-    </script>
+      
+    <script src="https://xinjie712.github.io//media/js/functions-post.js"></script>
+
     </div>
     <!-- end: #wrapper -->
   </body>
