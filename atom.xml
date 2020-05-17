@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xinjie712.github.io/</id>
     <title>欣杰的个人博客</title>
-    <updated>2020-05-15T12:03:09.291Z</updated>
+    <updated>2020-05-17T16:16:19.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xinjie712.github.io/"/>
     <link rel="self" href="https://xinjie712.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://xinjie712.github.io/images/avatar.png</logo>
     <icon>https://xinjie712.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 欣杰的个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[杂谈                                     五月]]></title>
+        <id>https://xinjie712.github.io/post/wu-yue-za-tan/</id>
+        <link href="https://xinjie712.github.io/post/wu-yue-za-tan/">
+        </link>
+        <updated>2020-05-17T15:34:32.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>不知不觉已经过了半月，这半个月挺忙的，忙也挺好的，就不会有太多suffering吧。前段时间的小阶段考试，算是结束了上半学期，只是感觉不是很理想吧。<br>
+主要是report的评分让人感觉心有不甘，明天去申诉一下，看看有没有机会🙃，希望以后少遇到这样的老师😤。</p>
+<p>在做cafm的pre中也收获挺多知识的，对跨专业论文的分析经验，google translator，emmm，搜狗的全篇翻译，都挺好的。总结一下思路:先看懂summary，然后再沿着summary的思路对论文的内容进行研究🤣。</p>
+<p>做好了机器学习的一些资料的准备，希望coursea的scholarship能通过吧，这样就能白嫖一门大佬的课了😅，但目前来说，下学期的功课是真的多，估计暑假才能开始学，还有雅思😵。</p>
+<p>这半个月学的不多，知乎码了一篇文章，算是视频剪辑学习的开始😂，以后学Pr多多练习剪视频。<br>
+轻松学imovie(视频剪辑入门最好的软件） - Russianjacker的文章 - 知乎<br>
+https://zhuanlan.zhihu.com/p/141616148</p>
+<figure data-type="image" tabindex="1"><img src="https://xinjie712.github.io//post-images/1589730863620.jpg" alt="" loading="lazy"></figure>
+<!-- more -->
+<p>2020.5.17</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于本博客的搭建]]></title>
         <id>https://xinjie712.github.io/post/guan-yu-ben-bo-ke-de-da-jian/</id>
