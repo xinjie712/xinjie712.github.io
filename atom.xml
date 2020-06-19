@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xinjie712.github.io/</id>
     <title>欣杰的个人博客</title>
-    <updated>2020-05-17T16:16:19.807Z</updated>
+    <updated>2020-06-19T10:45:55.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xinjie712.github.io/"/>
     <link rel="self" href="https://xinjie712.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://xinjie712.github.io/images/avatar.png</logo>
     <icon>https://xinjie712.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 欣杰的个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[博主的知乎]]></title>
+        <id>https://xinjie712.github.io/post/bo-zhu-de-zhi-hu/</id>
+        <link href="https://xinjie712.github.io/post/bo-zhu-de-zhi-hu/">
+        </link>
+        <updated>2020-06-19T10:35:49.000Z</updated>
+        <content type="html"><![CDATA[<p>博主的学习笔记主要在知乎上：<br>
+主要有以下内容：<br>
+1.爬虫的一些技术手段(只学了一些scrapy，没学分布式)<br>
+2.机器学习的笔记(在学)<br>
+3.用python解数学问题的笔记（在学）<br>
+链接如下：<br>
+https://www.zhihu.com/people/russianjacker?utm_source=wechat_session&amp;utm_medium=social&amp;utm_oi=1010995085705498624</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[杂谈                                     五月]]></title>
         <id>https://xinjie712.github.io/post/wu-yue-za-tan/</id>
