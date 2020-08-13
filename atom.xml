@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xinjie712.github.io/</id>
     <title>欣杰的个人博客</title>
-    <updated>2020-07-30T13:05:04.123Z</updated>
+    <updated>2020-08-13T15:58:53.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xinjie712.github.io/"/>
     <link rel="self" href="https://xinjie712.github.io/atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>https://xinjie712.github.io/images/avatar.png</logo>
     <icon>https://xinjie712.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 欣杰的个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[有个打造自媒体的idea和上篇打卡]]></title>
+        <id>https://xinjie712.github.io/post/you-ge-da-zao-zi-mei-ti-de-idea-he-shang-pian-da-qia/</id>
+        <link href="https://xinjie712.github.io/post/you-ge-da-zao-zi-mei-ti-de-idea-he-shang-pian-da-qia/">
+        </link>
+        <updated>2020-08-13T11:32:40.000Z</updated>
+        <content type="html"><![CDATA[<p>今天分析一下b站的视频，发现b站播放量较多的主要还是娱乐和生活视频为主，当然做的好科普视频（暂时以播放量为标准），也是有很大的受众的，但是这类科普视频主要还是聚焦在热点时事，从这里引流。</p>
+<p>同时生活类，饮食类up主很多，这些up主已经形成自己的风格并有自己的视频特色，可以看出这方面已经竞争很大了，但是侧面也可以看到生活类，饮食类的受众面还是很大的。</p>
+<p>而生活类+科普为导向的视频较少，如果添加上比较有趣而且凝练的台词，比如对某些日常的食物进行测评，以up主的日常背景故事引入，同时(科普一些知识)，应该是可行的。</p>
+<p>1）这种视频故事引入很重要，能在前30秒吸引观众，才能让观众想看后续。（在前期没有多少观看的情况下）</p>
+<p>2）视频科普的质量很重要，这类视频的竞争力就在这里，源于生活又能给观众看到新的知识，同时叙述又不能让观众感到无趣，达到有趣的科普。</p>
+<p>我觉得可以尝试一下：</p>
+<p>做2-3个试一下水。</p>
+<p>第一期的思路如下：</p>
+<p>主题是西瓜</p>
+<p>背景引入如下，炎炎夏日，蝉声鸣鸣，在烈日下跑回家中，打开冰箱，眼前的西瓜仿佛在沙漠中长途跋涉的人(可补动画）望到的绿洲（给西瓜加一些特效光)。<br>
+手起瓜落，鲜红多汁的瓜肉送入嘴里，嗷一口，鞥？，怎么不甜。是否日常生活中会遇到这样的场景</p>
+<p>所以，我们应该如何挑瓜呢？（可以到市场，商场上进行挑选西瓜的教学，只同种瓜如何挑其中好的）<br>
+可以进行科普，然后盯（我们挑选西瓜时需要分种类，市面上西瓜的品种，以及好吃的瓜的品种；同时产地（需要买一个新疆的西瓜），市场等等）<br>
+这个时候可以加入很多知识了，西瓜是如何生长好的？这个地方很重要，注意本质还是科普要占超过1/2！<br>
+最好有图表数据。还可以讨论西瓜的运输，保质等等。。，因为网购现在也是很重要的购买手段怎么样，选择好好吃的西瓜等等<br>
+最后，需要用测糖仪对我们选择的瓜进行验证，然后稍微总结一下。</p>
+<p>这两天准备一下，然后开机，剪视频也有很多是需要学习的。</p>
+<p>现在雅思词汇完成了1/2，上次的数值分析课程也是到1/2，学习了infinite-method解ode方程，其实就是数值法，代码还是很复杂的（先不看了，等有需要可以来学习一下）。<br>
+雅思词汇继续！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7月杂谈]]></title>
         <id>https://xinjie712.github.io/post/7-yue-za-tan/</id>
